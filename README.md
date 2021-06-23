@@ -11,7 +11,7 @@ The goal of this project is to combine transaction, demographic, and offer data 
 <b> Data Source: </b> Data is readily available in the Udacity workspace.
 
 <b> Problem Statement: </b> 
- This project focuses on buiding a model that predicts whether or not someone will respond to an offer. This will be accomplished using data processing and feature engineering. 
+ This project focuses on building a model that predicts whether or not someone will respond to an offer. This will be accomplished using data processing and feature engineering. 
  In addition to this, we will perform exploratory data analysis to answer below questions:
  
   Analysis 1: which age group customers mostly belong to ? <br>
