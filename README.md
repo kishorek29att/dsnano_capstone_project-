@@ -1,7 +1,10 @@
 # Data science Nano Degree - Capstone project
 # Starbucks Capstone Challenge
 
-As part of the final capstone project, i have picked up the starbucks capstone challenge.
+ **Medium Blog Post**: [Here](https://kishorek29.medium.com/starbucks-capstone-challenge-fd84609dd74f)
+
+
+As part of the final capstone project, i have worked on the starbucks capstone challenge.
 This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. 
 Once every few days, Starbucks sends out an offer to users of the mobile app. 
 An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free).
@@ -115,6 +118,11 @@ value - (dict of strings) - either an offer id or transaction amount depending o
              a. Build model to predict customer response to offer<br>
              b. used accuracy as evaluation metric to determine best model<br>
              c. selected Decision tree as the best model for our exercise as it has best accuracy </pre><br>
+
+  **Results**
+   Main observations on the dataset are documented [here](https://kishorek29.medium.com/starbucks-capstone-challenge-fd84609dd74f)
+
+
 
  **Acknowledgements** <br>
       Thanks Starbucks and Udacity group for sharing the dataset required for analysis.
