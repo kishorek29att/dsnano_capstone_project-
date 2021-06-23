@@ -118,13 +118,13 @@ value - (dict of strings) - either an offer id or transaction amount depending o
              a. Build model to predict customer response to offer<br>
              b. used accuracy as evaluation metric to determine best model<br>
              c. selected Decision tree as the best model for our exercise as it has best accuracy </pre><br>
-
-  **Results**
-   Main observations on the dataset are documented [here](https://kishorek29.medium.com/starbucks-capstone-challenge-fd84609dd74f)
+<br>
+  **Results** <br>
+   Main observations on the dataset are documented [here](https://kishorek29.medium.com/starbucks-capstone-challenge-fd84609dd74f)<br>
 
 
 
  **Acknowledgements** <br>
-      Thanks Starbucks and Udacity group for sharing the dataset required for analysis.
+      Thanks Starbucks and Udacity group for sharing the dataset required for analysis.<br>
 
   
